@@ -642,6 +642,7 @@ p, span, button, a, input, textarea{
 .client h4 {
   font-size: 15px;
   margin-bottom: 4px;
+  color: #cfcfcf;
 }
 
 .client span {
